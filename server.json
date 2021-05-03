@@ -14,6 +14,19 @@
       }
     },
     {
+        "id": "guns-n-roses",
+        "title": "Guns N' Roses - Sweet Child O' Mine",
+        "members": "David e Diego",
+        "published_at": "2021-05-02 19:00:00",
+        "thumbnail": "https://i.pinimg.com/originals/d4/50/0a/d4500a8016a1f2b599d5426bb728f357.jpg",
+        "description": "<p>Guns N' Roses - Sweet Child O' Mine</p>",
+        "file": {
+          "url": "https://drive.google.com/uc?export=download&id=1t5SmPWsokRi1uRolfF5eL9pX-tg2DsAg",
+          "type": "audio/x-m4a",
+          "duration": 303
+        }
+      },
+    {
       "id": "a-importancia-da-contribuicao-em-open-source",
       "title": "Faladev #30 | A importância da contribuição em Open Source",
       "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
